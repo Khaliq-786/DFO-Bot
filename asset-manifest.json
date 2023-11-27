@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/DFO-Bot/static/css/main.3b1650f1.css",
-    "main.js": "/DFO-Bot/static/js/main.8700769a.js",
+    "main.css": "/DFO-Bot/static/css/main.dcbc7d75.css",
+    "main.js": "/DFO-Bot/static/js/main.153abd44.js",
     "index.html": "/DFO-Bot/index.html",
-    "main.3b1650f1.css.map": "/DFO-Bot/static/css/main.3b1650f1.css.map",
-    "main.8700769a.js.map": "/DFO-Bot/static/js/main.8700769a.js.map"
+    "main.dcbc7d75.css.map": "/DFO-Bot/static/css/main.dcbc7d75.css.map",
+    "main.153abd44.js.map": "/DFO-Bot/static/js/main.153abd44.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b1650f1.css",
-    "static/js/main.8700769a.js"
+    "static/css/main.dcbc7d75.css",
+    "static/js/main.153abd44.js"
   ]
 }
