@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/DFO-Bot/static/css/main.3b1650f1.css",
-    "main.js": "/DFO-Bot/static/js/main.bbe50c5d.js",
+    "main.js": "/DFO-Bot/static/js/main.8700769a.js",
     "index.html": "/DFO-Bot/index.html",
     "main.3b1650f1.css.map": "/DFO-Bot/static/css/main.3b1650f1.css.map",
-    "main.bbe50c5d.js.map": "/DFO-Bot/static/js/main.bbe50c5d.js.map"
+    "main.8700769a.js.map": "/DFO-Bot/static/js/main.8700769a.js.map"
   },
   "entrypoints": [
     "static/css/main.3b1650f1.css",
-    "static/js/main.bbe50c5d.js"
+    "static/js/main.8700769a.js"
   ]
 }
